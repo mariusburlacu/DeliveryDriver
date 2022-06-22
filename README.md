@@ -1,0 +1,2 @@
+# DeliveryDriver
+A small game where you want to collect the packages (green boxes) and deliver them to the clients (red circles). There is a boost you can collect that lets you drive faster (yellow capsule). If you collide with an object, you speed will decrease. The car color will be green if you have collected a package or red if you currently don't have a package. You cannot collect more than one package at a time.
